@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="081f410d-2b2f-4d2c-84fd-9dd1bd6589dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwbrvuEe6vjmPZJhcPzT3U5H8s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RPP_Lab3_a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="081f410d-2b2f-4d2c-84fd-9dd1bd6589dd" name="Default Changelist" comment="" />
+      <created>1581960306325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581960306325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581962030742">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/4.0.1276.800@4.0.1276.800" timestamp="1581962030742" />
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1581965626326">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/4.0.1276.800@4.0.1276.800" timestamp="1581965626326" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1582014611087">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1582014611087" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/4.23.1276.777@4.23.1276.777" timestamp="1581965737158" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1582014611086">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1582014611086" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center/4.23.1276.777@4.23.1276.777" timestamp="1581965737157" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1582014611085">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1582014611085" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left/4.23.1276.777@4.23.1276.777" timestamp="1581965737156" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1582014611086">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1582014611086" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right/4.23.1276.777@4.23.1276.777" timestamp="1581965737157" />
+    <state x="34" y="22" key="new project wizard" timestamp="1581967616974">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="34" y="22" key="new project wizard/4.0.1276.800@4.0.1276.800" timestamp="1581967616974" />
+  </component>
+</project>
