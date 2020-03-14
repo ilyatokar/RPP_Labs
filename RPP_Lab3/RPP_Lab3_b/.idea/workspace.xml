@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff18bb13-8404-42a6-ac70-f99bd904d9ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/RPP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPP_Lab3_a/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/src/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_a/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_a/out/production/RPP_Lab3_a/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_b/CalculatingFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_b/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_b/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_b/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_b/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatingFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/out/production/RPP_lab4/META-INF/RPP_lab4.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="ff18bb13-8404-42a6-ac70-f99bd904d9ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,25 +110,25 @@
       <screen x="4" y="0" width="1276" height="800" />
     </state>
     <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/4.0.1276.800@4.0.1276.800" timestamp="1582130534850" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584167138346">
-      <screen x="4" y="23" width="1276" height="777" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584168340628">
+      <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1584167018476" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1584168340628" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.23.1276.777@4.23.1276.777" timestamp="1584167138346" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584167138344">
-      <screen x="4" y="23" width="1276" height="777" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584168340625">
+      <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1584167018474" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1584168340625" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/4.23.1276.777@4.23.1276.777" timestamp="1584167138344" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584167138343">
-      <screen x="4" y="23" width="1276" height="777" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584168340624">
+      <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1584167018473" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1584168340624" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/4.23.1276.777@4.23.1276.777" timestamp="1584167138343" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584167138345">
-      <screen x="4" y="23" width="1276" height="777" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584168340626">
+      <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1584167018475" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1584168340626" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/4.23.1276.777@4.23.1276.777" timestamp="1584167138345" />
     <state x="308" y="122" key="GuiDesigner.FormSource.Dialog" timestamp="1582014065314">
       <screen x="4" y="0" width="1276" height="800" />
