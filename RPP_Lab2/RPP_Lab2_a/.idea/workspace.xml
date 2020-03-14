@@ -1,20 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba8ff98-6910-402b-b493-07442d957d1b" name="Default Changelist" comment="" />
+    <list default="true" id="8ba8ff98-6910-402b-b493-07442d957d1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/RPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Lab2_b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Lab2_c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab2_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab2_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab2_c/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2_c/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab2_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2_c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/out/production/RPP_lab4/META-INF/RPP_lab4.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1XvziBlozPXH8rFJ052xtjo4fnK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -24,7 +68,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="RPP_Lab2_a" />
@@ -76,14 +120,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581941480578</updated>
+      <workItem from="1584102948080" duration="1315000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581942410037">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584103278976">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/4.0.1276.800@4.0.1276.800" timestamp="1581942410037" />
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/4.0.1276.800@4.0.1276.800" timestamp="1584103278976" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584106539765">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1584106539765" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584106539763">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1584106539763" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584106539762">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1584106539762" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584106539764">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1584106539764" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1584103255608">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/4.0.1276.800@4.0.1276.800" timestamp="1584103255608" />
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1581941490081">
       <screen x="4" y="23" width="1276" height="777" />
     </state>

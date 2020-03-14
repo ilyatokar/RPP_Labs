@@ -58,8 +58,8 @@ public class CalculatingFunction extends JFrame {
                         row.add(Double.toString(a));
                         row.add(Double.toString(b));
                         row.add(Double.toString(c));
-                        row.add(Double.toString(j));
-                        row.add(Double.toString(Function(a,b,c,j)));
+                        row.add(String.format("%.2f", j));
+                        row.add(String.format("%.2f", Function(a,b,c,j)));
                         data.add(row);
                     }
                     tableModel = new DefaultTableModel(data, columnsHeader);

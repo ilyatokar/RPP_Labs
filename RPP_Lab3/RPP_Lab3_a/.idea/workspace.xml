@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="081f410d-2b2f-4d2c-84fd-9dd1bd6589dd" name="Default Changelist" comment="" />
+    <list default="true" id="081f410d-2b2f-4d2c-84fd-9dd1bd6589dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/RPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_a/src/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_Lab2/RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_a/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_a/CalculatingFunction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_a/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_a/CalculatingFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_a/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_a/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RPP_Lab3_a/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RPP_Lab3_a/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3_b/out/production/RPP_Lab3_b/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPP_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPP_lab4/out/production/RPP_lab4/META-INF/RPP_lab4.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +47,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1XwbrvuEe6vjmPZJhcPzT3U5H8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +59,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RunManager">
@@ -86,8 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581960306325</updated>
+      <workItem from="1584103571888" duration="859000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581962030742">
@@ -98,26 +146,30 @@
       <screen x="4" y="0" width="1276" height="800" />
     </state>
     <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/4.0.1276.800@4.0.1276.800" timestamp="1581965626326" />
-    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1582014611087">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584106533119">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1582014611087" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1584106533119" />
     <state width="1238" height="204" key="GridCell.Tab.0.bottom/4.23.1276.777@4.23.1276.777" timestamp="1581965737158" />
-    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1582014611086">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584106533118">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1582014611086" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1584106533118" />
     <state width="1238" height="204" key="GridCell.Tab.0.center/4.23.1276.777@4.23.1276.777" timestamp="1581965737157" />
-    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1582014611085">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584106533117">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1582014611085" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1584106533117" />
     <state width="1238" height="204" key="GridCell.Tab.0.left/4.23.1276.777@4.23.1276.777" timestamp="1581965737156" />
-    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1582014611086">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584106533118">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="204" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1582014611086" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1584106533118" />
     <state width="1238" height="204" key="GridCell.Tab.0.right/4.23.1276.777@4.23.1276.777" timestamp="1581965737157" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1584103627564">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/4.0.1276.800@4.0.1276.800" timestamp="1584103627564" />
     <state x="34" y="22" key="new project wizard" timestamp="1581967616974">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
