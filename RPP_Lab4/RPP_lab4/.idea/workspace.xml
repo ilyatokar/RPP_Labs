@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e97e6080-678d-4a59-9104-6500fb7ef041" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/RPP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_a/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_a/src/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_b/out/production/RPP_Lab2_b/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab2/RPP_Lab2_c/out/production/RPP_Lab2_c/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/CalculatingFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_a/out/production/RPP_Lab3_a/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/CalculatingFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab3/RPP_Lab3_b/out/production/RPP_Lab3_b/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RPP_lab4/META-INF/RPP_lab4.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="e97e6080-678d-4a59-9104-6500fb7ef041" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1Yesuabp6icixKQRJyXuzm96kyI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -102,6 +69,7 @@
       <workItem from="1583430215775" duration="2863000" />
       <workItem from="1583475029734" duration="11558000" />
       <workItem from="1584103713125" duration="651000" />
+      <workItem from="1584390321596" duration="15000" />
     </task>
     <servers />
   </component>
@@ -149,10 +117,10 @@
       <screen x="4" y="0" width="1276" height="800" />
     </state>
     <state x="128" y="0" key="SettingsEditor/4.0.1276.800@4.0.1276.800" timestamp="1584103716540" />
-    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1583475282831">
-      <screen x="4" y="23" width="1276" height="777" />
+    <state x="319" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1584390325241">
+      <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state x="319" y="215" key="com.intellij.ide.util.TipDialog/4.0.1276.800@4.0.1276.800" timestamp="1583430224774" />
+    <state x="319" y="215" key="com.intellij.ide.util.TipDialog/4.0.1276.800@4.0.1276.800" timestamp="1584390325241" />
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog/4.23.1276.777@4.23.1276.777" timestamp="1583475282831" />
     <state x="305" y="185" width="670" height="675" key="run.anything.popup" timestamp="1583476567950">
       <screen x="4" y="0" width="1276" height="800" />
