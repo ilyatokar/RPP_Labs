@@ -89,9 +89,6 @@ export default{
     	this.$set(this.items, 0, [2, 2, 2]);
     	this.$set(this.items, 1, [0, 0, 0]);
     	this.$set(this.items, 2, [1, 1, 1]);
-    	// this.items.push();
-    	// this.items.push([0, 0, 0]);
-    	// this.items.push([1, 1, 1]);
     },
     ClickButton: function(x, y){
     	if(this.select_item_x == null &&
