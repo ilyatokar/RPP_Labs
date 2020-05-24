@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="331.0" prefWidth="1331.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SinglePrecisionWindow">
+   <children>
+      <TableView fx:id="InsertTable" cache="true" editable="true" layoutX="14.0" layoutY="14.0" prefHeight="78.0" prefWidth="152.0">
+        <columns>
+          <TableColumn fx:id="InsertTableColumn" onEditCommit="#InsertCommit" prefWidth="141.0" sortable="false" text="Число" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <TableView fx:id="OutputTable" layoutX="14.0" layoutY="100.0" prefHeight="150.0" prefWidth="1312.0">
+         <columns>
+            <TableColumn fx:id="outCol_0" editable="false" prefWidth="60.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_1" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Знак" />
+            <TableColumn fx:id="outCol_2" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Х" />
+            <TableColumn fx:id="outCol_3" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="А" />
+            <TableColumn fx:id="outCol_4" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Р" />
+            <TableColumn fx:id="outCol_5" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="А" />
+            <TableColumn fx:id="outCol_6" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="К" />
+            <TableColumn fx:id="outCol_7" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Т" />
+            <TableColumn fx:id="outCol_8" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Е" />
+            <TableColumn fx:id="outCol_9" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Р" />
+            <TableColumn fx:id="outCol_10" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="М" />
+            <TableColumn fx:id="outCol_11" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="А" />
+            <TableColumn fx:id="outCol_12" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Н" />
+            <TableColumn fx:id="outCol_13" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="Т" />
+            <TableColumn fx:id="outCol_14" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="И" />
+            <TableColumn fx:id="outCol_15" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="С" />
+            <TableColumn fx:id="outCol_16" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="С" />
+            <TableColumn fx:id="outCol_17" editable="false" prefWidth="39.0" resizable="false" sortable="false" text="А" />
+            <TableColumn fx:id="outCol_18" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_19" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_20" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_21" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_22" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_23" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_24" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_25" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_26" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_27" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_28" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_29" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_30" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_31" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+            <TableColumn fx:id="outCol_32" editable="false" prefWidth="39.0" resizable="false" sortable="false" />
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <Label layoutX="14.0" layoutY="250.0" text="Обратный побитовый перевод">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="BackField" alignment="CENTER" editable="false" layoutX="14.0" layoutY="270.0" prefHeight="25.0" prefWidth="200.0" />
+   </children>
+</AnchorPane>

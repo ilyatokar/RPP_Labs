@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="228.0" prefWidth="703.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.CharWindow">
+   <children>
+      <TableView fx:id="InTable" editable="true" layoutX="196.0" layoutY="14.0" prefHeight="73.0" prefWidth="326.0">
+        <columns>
+          <TableColumn fx:id="inCol_0" onEditCommit="#inCol_Commit" prefWidth="155.0" resizable="false" sortable="false" text="Символ" />
+          <TableColumn fx:id="inCol_1" onEditCommit="#inCol_Commit" prefWidth="155.0" resizable="false" sortable="false" text="Десятичный код" />
+        </columns>
+      </TableView>
+      <TableView fx:id="OutTable" layoutX="1.0" layoutY="107.0" prefHeight="113.0" prefWidth="697.0">
+         <columns>
+            <TableColumn fx:id="outCol_0" editable="false" prefWidth="137.0" sortable="false" text="Тетрады" />
+            <TableColumn fx:id="outCol_1" editable="false" prefWidth="137.0" sortable="false" text="Тетрада 3 (15-12)" />
+            <TableColumn fx:id="outCol_2" editable="false" prefWidth="137.0" sortable="false" text="Тетрада 2 (11-8)" />
+            <TableColumn fx:id="outCol_3" editable="false" prefWidth="137.0" sortable="false" text="Тетрада 1 (7-4)" />
+            <TableColumn fx:id="outCol_4" editable="false" prefWidth="137.0" sortable="false" text="Тетрада 0 (3-0)" />
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+   </children>
+</AnchorPane>

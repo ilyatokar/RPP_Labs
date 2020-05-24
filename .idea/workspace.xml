@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a02ca99f-7008-40ae-822d-ac5be4f6239b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RPP_Lab4/.idea/RPP_Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskA/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskA/NuberModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskA/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskA/task_a.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskB/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskB/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskB/task_b.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskC/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskC/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskC/task_c.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskD/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskD/TaskD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/TaskD/task_d.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/.idea/RPP_Lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/.idea/RPP_Lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/RPP_Lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/RPP_Lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/RPP_Lab1_b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/RPP_Lab1_b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_b/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/RPP_Lab1_c.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/RPP_Lab1_c.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_c/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/RPP_Lab1_d.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/RPP_Lab1_d.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab1/RPP_Lab1_d/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/RPP_Lab2_a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/RPP_Lab2_a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_a/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/RPP_Lab2_b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/RPP_Lab2_b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_b/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/RPP_Lab2_c.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/RPP_Lab2_c.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab2/RPP_Lab2_c/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/RPP_Lab3_a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/RPP_Lab3_a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/src/CalculatingFunction.form" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/src/CalculatingFunction.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/src/CalculatingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/src/CalculatingFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_a/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/RPP_Lab3_b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/RPP_Lab3_b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/src/CalculatingFunction.form" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/src/CalculatingFunction.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/src/CalculatingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/src/CalculatingFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/RPP_Lab3_b/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/components/Table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/components/Table.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab3/rpplab3js/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/RPP_lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/RPP_lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/MainForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/MainForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/MainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/MyTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/MyTableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskA.form" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskA.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskA.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskB.form" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskB.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskC.form" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskC.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/RPP_lab4/src/TaskC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Lab4/rpplab4js/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/RPP_Practic1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/RPP_Practic1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/out/production/RPP_Practic1/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/out/production/RPP_Practic1/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic1/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic1/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/RPP_Practic2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/RPP_Practic2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/out/production/RPP_Practic2/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/out/production/RPP_Practic2/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic2/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic2/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/RPP_Practic3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/RPP_Practic3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/out/production/RPP_Practic3/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/out/production/RPP_Practic3/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/out/production/RPP_Practic3/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/out/production/RPP_Practic3/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/out/production/RPP_Practic3/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/out/production/RPP_Practic3/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPP_Practic3/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RPP_Practic3/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/public/img/icons/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/public/img/icons/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/public/img/taskfour/chess.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/public/img/taskfour/chess.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/public/img/tasktwo/dstulle_white_egg_clip_art_23732/Dstulle_White_Egg_clip_art.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/public/img/tasktwo/dstulle_white_egg_clip_art_23732/Dstulle_White_Egg_clip_art.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/elephant_black.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/elephant_black.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/elephant_white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/elephant_white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/pawn_black.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/pawn_black.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/pawn_white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/assets/img/taskfour/pawn_white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/assets/img/tasktwo/dstulle_white_egg_clip_art_23732/Dstulle_White_Egg_clip_art.svg" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/assets/img/tasktwo/dstulle_white_egg_clip_art_23732/Dstulle_White_Egg_clip_art.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/registerServiceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/registerServiceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/views/TaskFour.vue" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/views/TaskFour.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/views/TaskOne.vue" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/views/TaskOne.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/views/TaskTree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/views/TaskTree.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_practic4/src/views/TaskTwo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/rpp_practic4/src/views/TaskTwo.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cIrHxEBo1twDhGzo6Mgx00zOGv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a02ca99f-7008-40ae-822d-ac5be4f6239b" name="Default Changelist" comment="" />
+      <created>1590226864372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590226864372</updated>
+      <workItem from="1590226868514" duration="1314000" />
+      <workItem from="1590238484638" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

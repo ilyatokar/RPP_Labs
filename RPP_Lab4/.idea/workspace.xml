@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1cd8621-debf-4e25-afee-8ec358b774bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskA/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskA/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskB/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskB/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskC/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskC/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskD/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPP_Practic3/src/sample/TaskD/TaskD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Practic3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Practic3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Practic3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Practic3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Practic3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Practic3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Practic3/out/production/RPP_Practic3/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Practic3/out/production/RPP_Practic3/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPP_Practic3/out/production/RPP_Practic3/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPP_Practic3/out/production/RPP_Practic3/sample/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aMW26S2RcotzuZ3zlHZwn2sjXp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RPP_lab4" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1cd8621-debf-4e25-afee-8ec358b774bc" name="Default Changelist" comment="" />
+      <created>1586545732198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586545732198</updated>
+      <workItem from="1586545733467" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586545746949">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="809" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586545746949" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1586545764506">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586545764506" />
+  </component>
+</project>
